@@ -1,0 +1,56 @@
+.hero{
+    background: url(../../assets/img/desktop/image-header.jpg);
+    width: 100%;
+    height: 113vh;
+    height:calc(21rem + 31.29vw);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom  ;
+    position: relative;
+}
+
+.hero-title{
+    font-family: "Fraunces", serif;
+    text-transform: uppercase;
+    color: white;
+    font-size: calc(1.4rem + 2.38vw);
+    font-weight: 900;
+    letter-spacing: 10px;
+    text-align: center;
+    padding-top: calc(6.5rem + 4.76vw);
+
+}
+.arrow-icon{  
+    display: block;
+    margin: 0 auto;
+    margin-top: calc(43.5px + 3.50vw);
+
+    width: calc(0.82rem + 1.64vw);
+
+    height: auto;
+
+}  
+
+@media  (max-width:768px) {
+    .hero{
+        background-image: url('../../assets/img/mobile/image-header.jpg');
+        
+        height: calc(100vw + 170px);
+        
+    }
+    .arrow-icon{
+        
+     object-fit: cover;
+       
+        width: calc(9.40px + 7.40vw);
+        margin-top: calc(24.30px + 12vw);
+        
+    }
+    .hero-title{
+        
+        font-size: calc(9.14px + 7.14vw);
+        letter-spacing: 7px;
+        padding-top: calc(82.34px + 14.28vw);
+    }
+
+}

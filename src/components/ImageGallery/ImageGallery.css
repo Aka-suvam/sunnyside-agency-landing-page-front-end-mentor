@@ -1,0 +1,32 @@
+.image-gallery{
+    display: flex;
+
+
+}
+
+.row-one,.row-two{
+    display: flex;
+    width: 50%;
+}
+.image-container{
+    width: 100%; 
+   
+}
+
+.image-container img{
+    display: block; 
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+     
+}
+
+@media (max-width:768px) {
+    .image-gallery{
+        flex-direction: column;
+    }
+    .row-one,.row-two{
+        width: 100%;
+    }
+    
+}
