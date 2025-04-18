@@ -52,7 +52,7 @@ nav p {
     object-fit: contain;
 }
 
-.menu,.Mobilenav,.menu-triangle{
+.menu,.Mobilenav{
    display: none; 
    }
 
@@ -127,15 +127,18 @@ nav p {
         padding: 1rem 1.5rem;
        
     }
-    .Menu-triangle{
+    .mobile-navlink::before{
+        content: "";
         display: block;
-        width: 50px;
-        height: 50px;
-        position: absolute;
-        top:calc(69.45px + 6.42vw);
-        left: calc(-86.64px + 99.78vw);
-        clip-path: polygon(100% 0, 0% 100%, 100% 100%);
-        background-color: white;
-
-    }
+         width: 50px;
+         height: 50px;
+         position: absolute;
+         right: 0;
+         top: -2rem;
+         clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+         background-color: white;
+        
+ 
+ }
+    
 }

@@ -24,8 +24,7 @@ const Header = () => {
       <div className='menu' onClick={handleMobileNavToggle}>
         <img src={Menuicon} alt='hamburger-menu-icon'/>
       </div>
-     <div className={`menu-triangle ${mobilenav?'Menu-triangle':''}`}></div>
-     <nav className={` Mobilenav ${mobilenav?'mobile-navlink':''}`}>
+   <nav className={` Mobilenav ${mobilenav?'mobile-navlink':''}`}>
       <ul>
         <li><a href='#'>About</a></li>
         <li><a href='#'>Services</a></li>
