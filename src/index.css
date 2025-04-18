@@ -18,8 +18,13 @@ html{
   height: 100%;
 }
 
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
 @media (max-width:400px){
-   .left-para ,.left-para-two,.footer-nav p{
+   .left-para ,.left-para-two,.footer-nav p,.attribution {
     font-size: 14px;
 
   }

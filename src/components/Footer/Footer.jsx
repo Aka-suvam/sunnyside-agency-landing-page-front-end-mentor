@@ -22,6 +22,10 @@ const Footer = () => {
         <img src={Twitterlogo} alt='Twitter'/>
         <img src={Pinterestlogo} alt='pinterest'/>
     </div>
+    <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"> Frontend Mentor </a>. 
+    Coded by <a href="#"> Suvam Rai </a>.
+  </div>
     </footer>
   )
 }
