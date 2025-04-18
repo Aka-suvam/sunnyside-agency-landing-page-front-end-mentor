@@ -44,11 +44,12 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ## Built with 
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS3
 - Flex
-- Grid
-- Mobile-first workflow
-- JavaScript
+- Reactjs
+- Vite
+- Desktop-first workflow
+
 
 ## What I learned
 Great project if you are just starting out or need to remember the basics like class toggle for hamburger menu.
