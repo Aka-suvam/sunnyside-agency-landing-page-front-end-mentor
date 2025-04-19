@@ -61,4 +61,4 @@ Great project . Learn many things like - Layout , breakpoint , responsiveness , 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-QfXrSGu5A">solution</a>. It definitely helps to find new ways to code and find easier solutions! .Like always, my gratitute goes to my amazing guys at Frontend Mentor who are working effortlessly to put this challenges together to help Frontend Developers get practical knowledge while building out these projects.
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/sunny-side-agency-landing-page-JPiR2V40Jl">solution</a>. It definitely helps to find new ways to code and find easier solutions! .Like always, my gratitute goes to my amazing guys at Frontend Mentor who are working effortlessly to put this challenges together to help Frontend Developers get practical knowledge while building out these projects.
