@@ -2,6 +2,7 @@
 footer{
     background: #90D4C5;
     padding: 2.3rem 0;
+    
 }
 .footer-logo-container{
    padding: 2.5rem 0;
@@ -42,10 +43,11 @@ fill: #2F7565;
 }
 
 .attribution{
-    font-size: 18px;
+    font-size: 14px;
     font-family: "Barlow", sans-serif;
     font-weight: 600; 
     color: hsl(168, 34%, 41%);
+    text-align: center;
 }
 
 .attribution a{

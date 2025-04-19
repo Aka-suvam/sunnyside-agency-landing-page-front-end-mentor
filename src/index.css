@@ -24,7 +24,7 @@ a{
 }
 
 @media (max-width:400px){
-   .left-para ,.left-para-two,.footer-nav p,.attribution {
+   .left-para ,.left-para-two,.footer-nav p {
     font-size: 14px;
 
   }
