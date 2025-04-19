@@ -3,10 +3,10 @@
 <img src="#"></img>
 
 
-<h1 align="center">Sunnyside Agency Landing Page</h1>
+<h1 >Sunnyside Agency Landing Page</h1>
 
-
-<div align="center">
+<br>
+<div >
   <h3>
     <a href="https://suunyside-agency-landingpage.netlify.app/" color="white">
       Live
@@ -24,7 +24,7 @@
 
 <br>
 <br>
-<br>
+
 
 ## About The Project
 This challenge will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the focus is HTML & CSS.
