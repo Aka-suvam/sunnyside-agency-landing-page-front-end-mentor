@@ -1,13 +1,6 @@
 
 <h1 >Sunnyside Agency Landing Page</h1>
 
-<h1 >Screenshot</h1>
-
-<img src="#"></img>
-
-
-
-<br>
 <div >
   <h3>
     <a href="https://suunyside-agency-landingpage.netlify.app/" color="white">
@@ -25,8 +18,11 @@
 </div>
 
 <br>
-<br>
+<h1 >Screenshot of Desktop view</h1>
 
+<img src="https://github.com/Aka-suvam/sunnyside-agency-landing-page-front-end-mentor/blob/main/Screenshot/Desktop-view.png"></img>
+<br>
+<h6>Provide all the Screenshot of mobile,desktop view in Screenshot folder of my repo.</h6>
 
 ## About The Project
 This challenge will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the focus is HTML & CSS.
