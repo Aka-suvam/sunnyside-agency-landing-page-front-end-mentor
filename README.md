@@ -8,22 +8,20 @@
 
 <div align="center">
   <h3>
-    <a href="#" color="white">
+    <a href="https://suunyside-agency-landingpage.netlify.app/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://www.frontendmentor.io/solutions/sunny-side-agency-landing-page-JPiR2V40Jl">
       Solution
     </a>
    <span> | </span>
-    <a href="#">
+    <a href="https://www.frontendmentor.io/challenges/agency-landing-page-7yVs3B6ef">
       Challenge
     </a>
   </h3>
 </div>
-<div align="center">
-   Solution for a challenge from  <a href="#">frontendmentor.io</a>.
-</div>
+
 <br>
 <br>
 <br>
@@ -63,4 +61,4 @@ Great project . Learn many things like - Layout , breakpoint , responsiveness , 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-QfXrSGu5A">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-QfXrSGu5A">solution</a>. It definitely helps to find new ways to code and find easier solutions! .Like always, my gratitute goes to my amazing guys at Frontend Mentor who are working effortlessly to put this challenges together to help Frontend Developers get practical knowledge while building out these projects.
