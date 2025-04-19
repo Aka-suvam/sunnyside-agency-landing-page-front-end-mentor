@@ -4,10 +4,8 @@
 
 
 <h1 align="center">Sunnyside Agency Landing Page</h1>
-### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+
 <div align="center">
   <h3>
     <a href="#" color="white">
@@ -33,15 +31,13 @@
 ## About The Project
 This challenge will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the focus is HTML & CSS.
 The challenge is to build out this landing page and get it looking as close to the design as possible.
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
+You can use any tools & Tech-stack you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 <br><br>Users should be able to:
 <br>1. View the optimal layout depending on their device's screen size.
 2. See hover states for all interactive elements on the page.
-<br>
 <br> <p>I do not have access to the Figma sketch so the design is not pixel perfect.</p>
 
-
+<br>
 
 
 ## Built with 
@@ -55,13 +51,14 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 
 ## What I learned
-Great project if you are just starting out or need to remember the basics like class toggle for hamburger menu.
+
+Great project . Learn many things like - Layout , breakpoint , responsiveness , use of rem,em,% . explore and learn about clip-path, ::before, ::after  pesudo-element, clamp(), calc(), toggle for hamburger menu.
 
 ## Useful resources
 
 1. <a href="https://www.figma.com/">Figma</a> - Paste your design image to check the size of containers, width, etc.
 2. <a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
-
+3. <a href="https://bennettfeely.com/clippy">Clippy </a> - Awesome  Tools that help for making CSS clip-path (geometry shape) . 
 
 
 ## Acknowledgments
